@@ -20,3 +20,5 @@ This project applies machine learning techniques (Regression, Classification, Cl
 
 ## Author
 Nadiyatul Husna
+Iffah Syafiah
+Lim Wen Yan
